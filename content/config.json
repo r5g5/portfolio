@@ -1,9 +1,8 @@
 {
-  "title": "Blog by John Doe",
-  "url": "https://lumen.alxshelepenok.com",
-  "description": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
-  "copyright": "© All rights reserved.",
-  "googleAnalyticsId": "G-MSQGQG14PK",
+  "title": "Rahul Gupta — Portfolio & Blog",
+  "url": "https://rahulgupta.dev",
+  "description": "",
+  "copyright": "",
   "pathPrefix": "/",
   "feedLimit": 4,
   "menu": [
@@ -12,27 +11,13 @@
       "url": "/"
     },
     {
-      "title": "About me",
+      "title": "About Me",
       "url": "/pages/about"
-    },
-    {
-      "title": "Contact me",
-      "url": "/pages/contacts"
     }
   ],
   "author": {
-    "title": "John Doe",
+    "title": "Rahul Gupta",
     "photo": "/logo.png",
-    "description": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
-    "contacts": [
-      {
-        "name": "github",
-        "contact": "alxshelepenok"
-      },
-      {
-        "name": "linkedin",
-        "contact": "alxshelepenok"
-      }
-    ]
+    "description": "C++ developer building low-latency trading and market data systems."
   }
 }

@@ -16,7 +16,7 @@ type SidebarContactsProps = {
 
 const SidebarContacts: FC<SidebarContactsProps> = ({ contacts }) => {
   return (
-    contacts.length > 0 && (
+    contacts && contacts.length > 0 && (
       <div className={styles.sidebarContacts}>
         <ul className={styles.list}>
           {contacts.map(

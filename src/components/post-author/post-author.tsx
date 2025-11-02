@@ -8,7 +8,7 @@ import * as styles from "./post-author.module.scss";
 const PostAuthor = () => {
   const { author } = useSiteMetadata();
   const x = useMemo(
-    () => author.contacts.find(({ name }) => name === "x"),
+    () => author.contacts && author.contacts.find(({ name }) => name === "x"),
     [author],
   );
 

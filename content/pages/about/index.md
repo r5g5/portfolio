@@ -1,13 +1,10 @@
 ---
 title: "About me"
 template: "page"
-socialImage: "./image.jpg"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+Hi, I’m **Rahul** — a C++ developer at **Flow Edge Securities**, where I build **quant trading systems** that care about *microseconds more than coffee breaks*.  
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](./image.jpg)
+I work across **C++ performance engineering**, **Python-based market analysis**, and occasionally enjoy overengineering **concurrent data structures** just for fun.  
 
-_Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi._
-
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+When I’m not chasing latency, I’m usually diving into **option pricing models**, **market microstructure**, or just keeping up with the latest **financial news and analysis**.

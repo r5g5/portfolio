@@ -11,10 +11,6 @@ const useSiteMetadata = () => {
             title
             photo
             description
-            contacts {
-              name
-              contact
-            }
           }
           menu {
             title
