@@ -3,7 +3,7 @@ title: "About me"
 template: "page"
 ---
 
-Hi, I’m **Rahul** — a C++ developer at **Flow Edge Securities**, where I build **quant trading systems** that care about *microseconds more than coffee breaks*.  
+Hi, I’m **Rahul** — a C++ developer at **Flow Edge Securities**, where I cut **microseconds** off quant trading systems and turn **latency into profit**.
 
 I work across **C++ performance engineering**, **Python-based market analysis**, and occasionally enjoy overengineering **concurrent data structures** just for fun.  
 
