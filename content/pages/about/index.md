@@ -3,10 +3,10 @@ title: "About me"
 template: "page"
 ---
 
-Hi, I’m **Rahul** — a C++ developer at **Flow Edge Securities**, where I cut **microseconds** off quant trading systems and turn **latency into profit**.
+Hi, I’m **Rahul** - a C++ developer at **Flow Edge Securities**, where I work on **low-latency trading systems** and performance-critical infrastructure.
 
-I work across **C++ performance engineering**, **Python-based market analysis**, and occasionally enjoy overengineering **concurrent data structures** just for fun.  
+My work spans **C++ performance engineering**, **Python-based quantitative analysis**, and building **high-efficiency concurrent system components**.
 
-When I’m not chasing latency, I’m usually diving into **option pricing models**, **market microstructure**, or just keeping up with the latest **financial news and analysis**.  
+Outside of work, I enjoy exploring **derivatives pricing**, **market microstructure**, and staying updated on **financial markets**.
 
-<i>If you’d like to connect, you can find me on [GitHub](https://github.com/r5g5) or [LinkedIn](https://linkedin.com/in/r5g5).</i>
+*You can connect with me on [GitHub](https://github.com/r5g5) or [LinkedIn](https://linkedin.com/in/r5g5).*
