@@ -9,7 +9,6 @@ tags:
   - "NISM"
   - "Equity Derivatives"
 description: "Concise notes for the NISM Series 8 – Equity Derivatives module."
-socialImage: "./nism-cover.jpg"
 ---
 
 Here are the notes for the **NISM Series 8 – Equity Derivatives** module.  
