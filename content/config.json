@@ -17,7 +17,7 @@
   ],
   "author": {
     "title": "Rahul Gupta",
-    "photo": "/logo.png",
+    "photo": "static/logo.png",
     "description": "C++ developer building low-latency trading and market data systems."
   }
 }
