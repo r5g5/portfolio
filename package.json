@@ -69,6 +69,7 @@
     "@types/react-test-renderer": "^19.0.0",
     "@types/sass": "^1.45.0",
     "autoprefixer": "^10.4.21",
+    "baseline-browser-mapping": "^2.10.13",
     "conventional-changelog-conventionalcommits": "9.1.0",
     "postcss": "^8.4.49",
     "postcss-scss": "^4.0.9",
