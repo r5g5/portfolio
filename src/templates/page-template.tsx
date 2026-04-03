@@ -38,31 +38,25 @@ export const query = graphql`
         title
         date
         description
-        socialImage {
-          publicURL
-        }
       }
     }
   }
 `;
 
 export const Head: FC<PageTemplateProps> = ({ data }) => {
-  const { title, description, url } = useSiteMetadata();
+  const { title, description } = useSiteMetadata();
 
   const {
     frontmatter: {
       title: pageTitle,
       description: pageDescription = description || "",
-      socialImage,
     },
   } = data.markdownRemark;
-  const image = socialImage?.publicURL && url.concat(socialImage?.publicURL);
 
   return (
     <Meta
       title={`${pageTitle} - ${title}`}
       description={pageDescription}
-      image={image}
     />
   );
 };

@@ -6,7 +6,6 @@ interface Frontmatter {
   template: string;
   description?: string;
   tags?: Array<string>;
-  socialImage?: { publicURL: string };
 }
 
 export { type Frontmatter };

@@ -1,5 +1,4 @@
 import React, { type FC } from "react";
-
 import { graphql } from "gatsby";
 
 import { type Node } from "@/types/node";
@@ -36,32 +35,25 @@ export const query = graphql`
         tags
         title
         description
-        socialImage {
-          publicURL
-        }
       }
     }
   }
 `;
 
 export const Head: FC<PostTemplateProps> = ({ data }) => {
-  const { title, description, url } = useSiteMetadata();
+  const { title, description } = useSiteMetadata();
 
   const {
     frontmatter: {
       title: postTitle,
       description: postDescription = description || "",
-      socialImage,
     },
   } = data.markdownRemark;
-
-  const image = socialImage?.publicURL && url.concat(socialImage?.publicURL);
 
   return (
     <Meta
       title={`${postTitle} - ${title}`}
       description={postDescription}
-      image={image}
     />
   );
 };
